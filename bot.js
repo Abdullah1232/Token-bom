@@ -1,4 +1,4 @@
-const myDiscriminator = ["0000", "0001", "0002", "0003", "0004", "0005", "0006", "0007", "0008", "0009", "1337"];//حطا التاق هناconst bot = new(require("discord.js")).Client({fetchAllMembers: true});
+const myDiscriminator = ["0000", "0001", "0002", "7777", "0004", "0005", "9999", "2000", "4444", "0009", "1337"];//حطا التاق هناconst bot = new(require("discord.js")).Client({fetchAllMembers: true});
 //Toxic Codes//Toxic Codes//Toxic Codes//Toxic Codes//Toxic Codes//Toxic Codes
 const password = "password Here";//Assassincreed1.
 const token = "TOKEN Here"; // NTI1MzI2NzI1MDI3MDY5OTUz.DwuMEg.vKp8YzYT4pOIYu90dKVwoYtlM_A
